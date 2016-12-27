@@ -1,2 +1,2 @@
 #!/bin/sh
-docker run --name tex-cjk -d --net=none -v $PWD:/documents zhan2016/tex
+docker run --name tex-cjk -d --net=none -v $PWD:/documents zhan2016/tex-cjk
